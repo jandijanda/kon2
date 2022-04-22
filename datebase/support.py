@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recode by @ReszXD
+# Recode by @ObatBatuk01
 
 import asyncio
 
