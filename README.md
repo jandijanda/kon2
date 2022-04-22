@@ -1,14 +1,13 @@
 # File-sharing-Bot
 
-  </a>
-  <a href="https://t.me/virtualmeresahkan1">
+  <a href="https://t.me/virtualmeresahkan0">
     <img src="https://github.com/ibrasptra791/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/virtualmeresahkan18">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20virtual-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+  <a href="https://t.me/virtualmeresahkan0">
+    &nbsp;<img src="https://img.shields.io/badge/Channel%20%F0%9D%95%8F%20virtual-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/virtualmeresahkan1">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20virtual-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+  <a href="https://t.me/virtualmeresahkan0">
+    &nbsp;<img src="https://img.shields.io/badge/Group%20%F0%9D%95%8F%20virtual-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>  
 </p>
 
@@ -26,7 +25,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
