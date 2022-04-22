@@ -85,20 +85,20 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/InfoBotShr) Untuk Dukungan/Bantuan dan untuk info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/virtualmeresahkan0) Untuk Dukungan/Bantuan dan untuk info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.
 ### Credits
 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
-- Thanks To [MRRismN](https://github.com/mrismanaziz/File-Sharing-Man)
+- Thanks To [jandijanda](https://github.com/jandijanda/kon2)
 - Our Support Group Members
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/restuap17/FileSharing-Restu) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](https://github.com/jandijanda/kon2) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundationither version 3 of the License, or
