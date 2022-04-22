@@ -1,14 +1,14 @@
 # File-sharing-Bot
 
   </a>
-  <a href="https://t.me/virtualmeresahkan1">
+  <a href="https://t.me/virtualmeresahkan0">
     <img src="https://github.com/ibrasptra791/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/virtualmeresahkan18">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20virtual-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+  <a href="https://t.me/virtualmeresahkan0">
+    &nbsp;<img src="https://img.shields.io/badge/channel%20%F0%9D%95%8F%20virtual-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/virtualmeresahkan1">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20virtual-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+  <a href="https://t.me/virtualmeresahkan0">
+    &nbsp;<img src="https://img.shields.io/badge/Gruop%20%F0%9D%95%8F%20virtual-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>  
 </p>
 
@@ -36,8 +36,8 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/ibrasptra791/kon
-cd File-Sharing-Bot
+git clone https://github.com/jandijanda/kon
+cd kon2
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
