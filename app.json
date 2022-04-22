@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Isi Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "ReszXD"
+      "value": "ObatBatuk01"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
@@ -60,7 +60,7 @@
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "InfoBotShr",
+      "value": "virtualmeresahkan0",
       "required": false
     }
   },
