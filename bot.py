@@ -1,24 +1,13 @@
 # (©)Codexbotz
-# Recode by @dandijanda
-# t.me/virtuaeresakan0 & t.me/vmbackupp
+# Recode by @mrismanaziz
+# t.me/SharingUserbot & t.me/Lunatic0de
 
 import pyromod.listen
 import sys
 
 from pyrogram import Client
 
-from config import (
-    API_HASH,
-    APP_ID,
-    CHANNEL_ID,
-    FORCE_SUB_CHANNEL,
-    FORCE_SUB_GROUP,
-    LOGGER,
-    OWNER,
-    TG_BOT_TOKEN,
-    TG_BOT_WORKERS,
-)
-
+from config import API_HASH,APP_ID,CHANNEL_ID,FORCE_SUB_CHANNEL,FORCE_SUB_GROUP,LOGGER,OWNER,TG_BOT_TOKEN,TG_BOT_WORKERS,
 
 class Bot(Client):
     def __init__(self):
@@ -26,7 +15,9 @@ class Bot(Client):
             "Bot",
             api_hash=API_HASH,
             api_id=APP_ID,
-            plugins={"root": "plugins"},
+            plugins={
+                "root": "plugins"}
+            }
             workers=TG_BOT_WORKERS,
             bot_token=TG_BOT_TOKEN,
         )
@@ -41,7 +32,7 @@ class Bot(Client):
         except Exception as a:
             self.LOGGER(__name__).warning(a)
             self.LOGGER(__name__).info(
-                "Bot Berhenti. Gabung Group https://t.me/virtualnrresahkan0 untuk Bantuan"
+                "Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
             )
             sys.exit()
 
@@ -61,7 +52,7 @@ class Bot(Client):
                     f"Pastikan @{self.username} adalah admin di Channel Tersebut, Chat ID F-Subs Channel Saat Ini: {FORCE_SUB_CHANNEL}"
                 )
                 self.LOGGER(__name__).info(
-                    "Bot Berhenti. Gabung Group https://t.me/virtualmeresahkan0 untuk Bantuan"
+                    "Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
                 )
                 sys.exit()
 
@@ -81,7 +72,7 @@ class Bot(Client):
                     f"Pastikan @{self.username} adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: {FORCE_SUB_GROUP}"
                 )
                 self.LOGGER(__name__).info(
-                    "Bot Berhenti. Gabung Group https://t.me/virtualmeresahkan0 untuk Bantuan"
+                    "Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
                 )
                 sys.exit()
 
@@ -96,13 +87,13 @@ class Bot(Client):
                 f"Pastikan @{self.username} adalah admin di Channel DataBase anda, CHANNEL_ID Saat Ini: {CHANNEL_ID}"
             )
             self.LOGGER(__name__).info(
-                "Bot Berhenti. Gabung Group https://t.me/virtualmeresahkan untuk Bantuan"
+                "Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
             )
             sys.exit()
 
         self.set_parse_mode("html")
         self.LOGGER(__name__).info(
-            f"[🔥 BERHASIL DIAKTIFKAN! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/virtualmeresahkan0"
+            f"[🔥 BERHASIL DIAKTIFKAN! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot"
         )
 
     async def stop(self, *args):
