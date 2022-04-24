@@ -1,5 +1,5 @@
 # Credits: @jandijanda
-# FROM kon2 <https://github.com/jandijanda/kon29/>
+# FROM kon2 <https://github.com/jandijanda/kon2/>
 # t.me/virtualmeresahkan0 & t.me/vmbackupp
 
 from config import FORCE_SUB_CHANNEL, FORCE_SUB_GROUP
