@@ -29,10 +29,8 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇.
 - Tambahkan bot ke Saluran Basis Data dengan semua izin
 - Tambahkan bot ke saluran ForceSub sebagai Admin dengan Undang Pengguna melalui Izin Tautan jika Anda mengaktifkan ForceSub
 
-##
-### Installation
-#### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jandijanda/kon2)</br>
+#Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jandijanda/kon2)
 
 #### Deploy in your VPS
 ````bash
