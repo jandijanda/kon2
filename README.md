@@ -32,7 +32,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jandijanda/kon2)</br>
 
 #### Deploy in your VPS
 ````bash
@@ -53,7 +53,6 @@ python3 main.py
 /genlink - create link for one post
 
 ```
-
 
 ### Variables
 
